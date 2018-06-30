@@ -43,10 +43,10 @@ var nameB = [
 //-- Page 1 --//
 
 /*Box 01*/	"Youtube",
-/*Box 02*/	"Two",
-/*Box 03*/	"Three",
-/*Box 04*/	"Four" ,
-/*Box 05*/	"Five" ,
+/*Box 02*/	"Twitter",
+/*Box 03*/	"Gmail",
+/*Box 04*/	"Reddit" ,
+/*Box 05*/	"DeviantArt" ,
 /*Box 06*/	"Six",
 /*Box 07*/	"Seven",
 /*Box 08*/	"Eight",
